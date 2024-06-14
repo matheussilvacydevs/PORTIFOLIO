@@ -14,7 +14,12 @@ const Projects = () => {
         <ProjectCard
           src="/img/Project001.png"
           title="Okami Animes"
-          description="kami Animes - Site de Streaming de Animes e Hospedador de Mangás."
+          description="Okami Animes - Site de Streaming de Animes e Hospedador de Mangás."
+        />
+        <ProjectCard
+          src="/img/shoemap.png"
+          title="OK-SHOES"
+          description="Um E-commerce de venda de sapatos"
         />
         {/* <ProjectCard
           src="/CardImage.png"
